@@ -1,0 +1,12 @@
+nav{
+    font-size: medium;
+}
+a{
+    color: darkslategray;
+}
+a:hover{
+    color: tan;
+}
+a:active{
+    color: black;
+}
